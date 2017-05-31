@@ -2,6 +2,8 @@
 
 ## Theoretical Background
 
+## Usage
+
 ## Features
 
 ## Screenshots
