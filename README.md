@@ -38,6 +38,8 @@ The rest of the folders contain the definitions of the functions used by the sim
 
 * Improvements in mathematical optimization.
 
+* Improvements on convex cone method.
+
 ## Dependencies
 
 This simulation uses the 'Multi-Parametric Toolbox 3 (MPT3)' library for the calculation and
