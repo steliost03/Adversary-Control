@@ -26,7 +26,7 @@ This simulation is based,and extends upon,the following papers: [Link](https://d
 
 ## How to run
 
-Before running, unzip the 'tbxmanager' folder.The 'tbxmanager' folder contains the MPT3 library. The simulation can then be executed by running the 'SIMULATION.m' file. The rest of the folders contain the definitions of the functions used by the simulation .
+Before running, unzip the 'tbxmanager' folder. The 'tbxmanager' folder contains the MPT3 library. The simulation can then be executed by running the 'SIMULATION.m' file. The rest of the folders contain the definitions of the functions used by the simulation .
 
 ## Features
 
