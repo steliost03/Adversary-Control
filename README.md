@@ -26,11 +26,21 @@ This simulation is based,and extends upon,the following papers: [Link](https://d
 
 ## How to run
 
-Before running, unzip the 'tbxmanager' folder. The 'tbxmanager' folder contains the MPT3 library. The simulation can then be executed by running the 'SIMULATION.m' file. The rest of the folders contain the definitions of the functions used by the simulation .
+Before running, unzip the 'tbxmanager' folder. The 'tbxmanager' folder contains the MPT3 library. The simulation can then be executed by running the 'SIMULATION.m' file via MATLAB. The rest of the folders contain the definitions of the functions used by the simulation .
 
 ## Features
 
 ## Screenshots
+<img src="https://user-images.githubusercontent.com/20325266/30706674-cb454e08-9f01-11e7-98c9-21c9cfb597c6.jpg" width="49%"><img src ="https://user-images.githubusercontent.com/20325266/30706675-cc753234-9f01-11e7-919e-0a8e4f0d5d95.jpg" width="49%">
+
+<img src="https://user-images.githubusercontent.com/20325266/30706668-c70d392c-9f01-11e7-9cb0-3469f1c71386.jpg" height="150%" width = "50%"><img src="https://user-images.githubusercontent.com/20325266/30706669-c8a43150-9f01-11e7-9ede-acd2ecadea73.jpg" width="49%">
+
+<img src="https://user-images.githubusercontent.com/20325266/30706661-c2b1947c-9f01-11e7-8a49-a1a507733c51.jpg" width="49%"><img src="https://user-images.githubusercontent.com/20325266/30706667-c5510f50-9f01-11e7-8d5f-b0aa0ab33ac9.jpg" width="49%">
+
+
+
+<img src="https://user-images.githubusercontent.com/20325266/30706673-c9f4d942-9f01-11e7-9c73-0901d665284b.jpg" width="49%">
+
 
 
 
