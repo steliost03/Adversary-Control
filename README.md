@@ -14,10 +14,6 @@ This simulation is based,and extends upon,the following papers:
 
 ## How to run
 
-### Installation
-
-### Execution
-
 The simulation can be executed by running the 'SIMULATION.m' file.
 
 The 'tbxmanager' folder contains the MPT3 library.
