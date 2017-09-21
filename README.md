@@ -36,7 +36,7 @@ The rest of the folders contain the definitions of the functions used by the sim
 
 * File I/O support.
 
-* Improvements in mathematical optimization.
+* Improvements on mathematical optimization.
 
 * Improvements on convex cone method.
 
