@@ -4,7 +4,7 @@
 
 Simulation of adversary control in 2-dimensional systems (soon to be expanded to higher dimensional systems).
 
-
+The system is controlled by two opposing parties : 
 
 ## Theoretical Background
 
