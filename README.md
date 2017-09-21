@@ -2,14 +2,16 @@
 
 ## Overview
 
+Simulation of adversary control in 2-dimensional systems (soon to be expanded to higher dimensional systems).
+
 
 
 ## Theoretical Background
 
-The fundamental concepts behind the simulation can be found in the following papers:
+The fundamental concepts behind the simulation can be found in the following papers: [Link](https://drive.google.com/drive/folders/0By-Hy-bcfIQSNkNraGhRSUs0M0U?usp=sharing)
 
 
-This simulation is based,and extends upon,the following papers:
+This simulation is based,and extends upon,the following papers: [Link](https://drive.google.com/drive/folders/0By-Hy-bcfIQSOUxsMUNGTHh5NnM?usp=sharing)
 
 
 ## How to run
