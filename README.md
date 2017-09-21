@@ -1,4 +1,4 @@
- Adversary Control
+# Adversary Control
 
 ## Overview
 
@@ -28,14 +28,7 @@ The rest of the folders contain the definitions of the functions used by the sim
 
 ## Screenshots
 
-2 me regular adversary control
-(1 me uncertainty,1 xwris)
 
-1 me covert kai facet
-
-1 me convex cone
-
-1 me equilibrium points
 
 ## Coming Soon
 
