@@ -14,9 +14,9 @@ This simulation is based,and extends upon,the following papers:
 
 ## How to run
 
-###Installation
+### Installation
 
-###Execution
+### Execution
 
 The simulation can be executed by running the 'SIMULATION.m' file.
 
@@ -32,11 +32,11 @@ The rest of the folders contain the definitions of the functions used by the sim
 
 ## Coming Soon
 
-*Support for multi-dimensional systems
+* Support for multi-dimensional systems
 
-*File I/O support.
+* File I/O support.
 
-*Improvements in mathematical optimization.
+* Improvements in mathematical optimization.
 
 ## Dependencies
 
