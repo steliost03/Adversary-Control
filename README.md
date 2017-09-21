@@ -2,14 +2,24 @@
 
 ## Overview
 
-Simulation of adversary control in 2-dimensional systems (soon to be expanded to higher dimensional systems).
+Simulation of adversary control in a linear, 2-dimensional discrete system in state-space representation (soon to be expanded to higher dimensional systems) .
 
-The system is controlled by two opposing parties : 
+We assume that the system operates under linear constraints regarding both the input of the controllers and regarding its state. Depending on the type of scenario (see below) a specific area is defined, called the desired operation area, within which the system wants to operate.
+
+The system is controlled by two opposing parties : The contractive and the expanding controllers.
+The objective of the contractive controller is to keep the system operating in a stable equilibrium point within the desired operation area , while the objective of the expanding controller is to disrupt this stability and force it to operate outside
+of it (while respecting input constraints).
+
+Two scenarios of adversary control are explored:
+
+*Regular* :
+
+*Covert* :
+
 
 ## Theoretical Background
 
-The fundamental concepts behind the simulation can be found in the following papers: [Link](https://drive.google.com/drive/folders/0By-Hy-bcfIQSNkNraGhRSUs0M0U?usp=sharing)
-
+The fundamental mathematical concepts utilized by this simulation can be found in the following papers: [Link](https://drive.google.com/drive/folders/0By-Hy-bcfIQSNkNraGhRSUs0M0U?usp=sharing)
 
 This simulation is based,and extends upon,the following papers: [Link](https://drive.google.com/drive/folders/0By-Hy-bcfIQSOUxsMUNGTHh5NnM?usp=sharing)
 
