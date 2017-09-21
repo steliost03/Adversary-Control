@@ -1,13 +1,64 @@
-# Adversary Control
+ Adversary Control
+
+## Overview
+
+
 
 ## Theoretical Background
 
-## Usage
+The fundamental concepts behind the simulation can be found in the following papers:
+
+
+This simulation is based,and extends upon,the following papers:
+
+
+## How to run
+
+###Installation
+
+###Execution
+
+The simulation can be executed by running the 'SIMULATION.m' file.
+
+The 'tbxmanager' folder contains the MPT3 library.
+
+The rest of the folders contain the definitions of the functions used by the simulation.
 
 ## Features
 
 ## Screenshots
 
+2 me regular adversary control
+(1 me uncertainty,1 xwris)
+
+1 me covert kai facet
+
+1 me convex cone
+
+1 me equilibrium points
+
+## Coming Soon
+
+*Support for multi-dimensional systems
+
+*File I/O support.
+
+*Improvements in mathematical optimization.
+
 ## Dependencies
 
+This simulation uses the 'Multi-Parametric Toolbox 3 (MPT3)' library for the calculation and
+plotting of the convex cone.
+
+It will also be used in the future, for the solution of the linear and nonlinear programming problems
+in the case of multi-dimensional systems.
+
+MPT3 is licensed under GPL.
+
+( http://people.ee.ethz.ch/~mpt/3/ )
+
 ## License
+
+This simulation is distributed under Apache License Version 2.0
+
+Copyright (C) 2017 Stelios Tsiakalos
