@@ -10,11 +10,6 @@ The system is controlled by two opposing parties : The contractive and the expan
 The objective of the contractive controller is to keep the system operating in a stable equilibrium point within the desired operation area , while the objective of the expanding controller is to disrupt this stability and force it to operate outside
 of it (while respecting input constraints).
 
-Two scenarios of adversary control are explored:
-
-*Regular* :
-
-*Covert* :
 
 
 ## Theoretical Background
