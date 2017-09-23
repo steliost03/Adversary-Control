@@ -25,13 +25,13 @@ This simulation is based,and extends upon,the following papers: [Link](https://d
 
 ### Convex Cone method
 
-This method is used when the expanding controller must force the state of the system through a specific facet of the desired operation area. In this case, the following procedure is followed :
+This method is used when the expanding controller must force the state of the system through a specific facet of the desired operation area, in order to reach the chosen equilibrium point. In this case, the following procedure is followed :
 
-*
+* The convex hull of the chosen facet's vertices plus the initial point, is calculated. It is then converted in H-representation (system of linear inequalities).
 
-*
+* From the linear inequalities , we remove the one which will cause the remaining to represent a convex cone , starting from the initial point and facing towards the chosen facet and beyond.
 
-*
+* Via a theorem described in the papers (see above) , we calculate a suitable gain factor so that the equilibrium point (which resides within the convex cone) is reached in the least amount of time steps.
 
 
 ## How to run
