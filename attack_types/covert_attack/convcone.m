@@ -2,14 +2,7 @@
 %also handles drawing (instead of the main function)
 function convcone(A,B,x0,G,w,P,r,umin,umax,xe,ue,axislimit)
  
-    %{
-     %2D
-    %desired operation area
-    [x1_D,x2_D] = define_polyhedral(1,P,r,0);
-    %alarm constraints area
-    [x1_A,x2_A] = define_polyhedral(1,G,w,0);
-    %}
-
+  
      %ANY DIMENSIONS
     %desired operation area
     D = Polyhedron('A',P,'b',r);
@@ -59,8 +52,8 @@ function convcone(A,B,x0,G,w,P,r,umin,umax,xe,ue,axislimit)
            c_optim_z = c_optim - C_optim*xe;
            v = [umax_new; -umin_new];
            [K,e] = kon_theorem(A,B,C_optim,c_optim_z,v);
-           K
-           e
+           
+           
           
        else
            %if xe lies in the boundary of (C,c)
