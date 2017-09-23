@@ -46,6 +46,8 @@ Before running, unzip the 'tbxmanager' folder. The 'tbxmanager' folder contains 
 
 * Option to show all candidate equilibrium points for expanding controller, in the covert case .
 
+* Option to introduce uncertainty in the state position for the expanding controller, in the regular case.
+
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/20325266/30706674-cb454e08-9f01-11e7-98c9-21c9cfb597c6.jpg" width="49%"><img src ="https://user-images.githubusercontent.com/20325266/30706675-cc753234-9f01-11e7-919e-0a8e4f0d5d95.jpg" width="49%">
 
