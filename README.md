@@ -56,8 +56,7 @@ Before running, unzip the 'tbxmanager' folder. The 'tbxmanager' folder contains 
 <img src="https://user-images.githubusercontent.com/20325266/30706661-c2b1947c-9f01-11e7-8a49-a1a507733c51.jpg" width="49%"><img src="https://user-images.githubusercontent.com/20325266/30706667-c5510f50-9f01-11e7-8d5f-b0aa0ab33ac9.jpg" width="49%">
 
 
-
-<img src="https://user-images.githubusercontent.com/20325266/30706673-c9f4d942-9f01-11e7-9c73-0901d665284b.jpg" width="49%">
+<img src="https://user-images.githubusercontent.com/20325266/30706673-c9f4d942-9f01-11e7-9c73-0901d665284b.jpg" width="49%"><img src="https://user-images.githubusercontent.com/20325266/30773967-258a62da-a084-11e7-9de1-9dd912a8cc1c.jpg" width="49%">
 
 
 ## Coming Soon
