@@ -10,6 +10,11 @@ The system is controlled by two opposing parties : The contractive and the expan
 The objective of the contractive controller is to keep the system operating in a stable equilibrium point within the desired operation area , while the objective of the expanding controller is to disrupt this stability and force it to operate outside
 of it (while respecting input constraints).
 
+The following scenarios of adversary control are explored :
+
+*Regular* : The desired operation area is defined as the intersection of the input constraints and the state constraints. The two controllers take turns affecting the system for a preset amount of time steps.
+
+*Covert* : In the case of covert adversary control, two areas are defined : the alarm constraints area and the desired operation area (the second being a subset of the first). The objectives of the expanding controller in this case, is to force the system to a equilibrium point outside the desired operation area while respecting the alarm constraints, and with the minimum amount of time spent controlling the system.
 
 
 ## Theoretical Background
@@ -18,12 +23,28 @@ The fundamental mathematical concepts utilized by this simulation can be found i
 
 This simulation is based,and extends upon,the following papers: [Link](https://drive.google.com/drive/folders/0By-Hy-bcfIQSOUxsMUNGTHh5NnM?usp=sharing)
 
+### Convex Cone method
+
+This method is used when the expanding controller must force the state of the system through a specific facet of the desired operation area. In this case, the following procedure is followed :
+
+*
+
+*
+
+*
+
 
 ## How to run
 
 Before running, unzip the 'tbxmanager' folder. The 'tbxmanager' folder contains the MPT3 library. The simulation can then be executed by running the 'SIMULATION.m' file via MATLAB. The rest of the folders contain the definitions of the functions used by the simulation .
 
 ## Features
+
+* Default input data , for testing purposes.
+
+* Choice of 3 methods for expanding controller, in the covert case.
+
+* Option to show all candidate equilibrium points for expanding controller, in the covert case .
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/20325266/30706674-cb454e08-9f01-11e7-98c9-21c9cfb597c6.jpg" width="49%"><img src ="https://user-images.githubusercontent.com/20325266/30706675-cc753234-9f01-11e7-919e-0a8e4f0d5d95.jpg" width="49%">
@@ -35,8 +56,6 @@ Before running, unzip the 'tbxmanager' folder. The 'tbxmanager' folder contains 
 
 
 <img src="https://user-images.githubusercontent.com/20325266/30706673-c9f4d942-9f01-11e7-9c73-0901d665284b.jpg" width="49%">
-
-
 
 
 ## Coming Soon
