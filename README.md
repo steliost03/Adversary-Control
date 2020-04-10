@@ -85,4 +85,4 @@ MPT3 is licensed under GPL.
 
 This simulation is distributed under Apache License Version 2.0
 
-Copyright (C) 2017 Stelios Tsiakalos
+Copyright (C) 2017 Stylianos Tsiakalos
